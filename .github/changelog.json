@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T20:08:02Z",
+  "generatedAt": "2026-05-26T20:08:50Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -150,6 +150,7 @@
     "f4332e985d4064559535b16397d9c35fdce587eb",
     "f987d9969923ee65464d0de187183719af278998",
     "fa1c504da13a0d2f8e75ef95566811e54750ff3d",
+    "fd84267e31da8b5086eed9d3f2a0c2dfa7f23d93",
     "fd87f80e3777c170e28f035b7049f3bde57c69a6"
   ],
   "checkedRejectionPrs": [
@@ -236,6 +237,29 @@
     565
   ],
   "entries": [
+    {
+      "date": "2026-05-26",
+      "sha": "fd84267e31da8b5086eed9d3f2a0c2dfa7f23d93",
+      "pr": {
+        "number": 573,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/573",
+        "author": "ltguillaume",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/4777345?v=4"
+      },
+      "changes": {
+        "services": {
+          "removed": [
+            {
+              "name": "Privacy Redirect",
+              "category": "Security Tools",
+              "section": "Browser Extensions"
+            }
+          ]
+        },
+        "sections": {},
+        "categories": {}
+      }
+    },
     {
       "date": "2026-05-26",
       "sha": "88bc6299bfbaf786e134238c45ac4d9a6aa7de24",
