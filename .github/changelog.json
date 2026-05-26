@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T19:28:43Z",
+  "generatedAt": "2026-05-26T20:07:29Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -132,6 +132,7 @@
     "d835706239a1a20d3cd98d511a82038823dbef9e",
     "da7374ad750bd07bc42649cfdd09edd14901cc40",
     "dbb44f56681d9456e5808737b8c3873c0c7e8af5",
+    "dc6bd7c8a78f3a9a054aa77327b040adf1ced610",
     "dd6ae4904bf653b577869e6516907db1782d5884",
     "dec42f0572b2f52fad5ccd5f52ae6f4ae0b18721",
     "df686cd77a1ff89ba9a318089d46c1585b63b572",
@@ -194,6 +195,7 @@
     467,
     469,
     470,
+    474,
     475,
     476,
     479,
@@ -229,9 +231,33 @@
     552,
     554,
     557,
-    560
+    560,
+    565
   ],
   "entries": [
+    {
+      "date": "2026-05-26",
+      "sha": "dc6bd7c8a78f3a9a054aa77327b040adf1ced610",
+      "pr": {
+        "number": 570,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/570",
+        "author": "ltguillaume",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/4777345?v=4"
+      },
+      "changes": {
+        "services": {
+          "removed": [
+            {
+              "name": "First Party Isolation",
+              "category": "Security Tools",
+              "section": "Browser Extensions"
+            }
+          ]
+        },
+        "sections": {},
+        "categories": {}
+      }
+    },
     {
       "date": "2026-05-21",
       "sha": "923301401b6f5d19ea9bb2c4fb9360eff10a257a",
@@ -4711,6 +4737,16 @@
   ],
   "rejections": [
     {
+      "date": "2026-05-23",
+      "title": "add 3233.io to Encrypted Messaging",
+      "pr": {
+        "number": 565,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/565",
+        "author": "253153",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/23563565?v=4"
+      }
+    },
+    {
       "date": "2026-05-18",
       "title": "Add NumberOTP to Virtual Phone Numbers",
       "pr": {
@@ -5028,6 +5064,16 @@
         "url": "https://github.com/Lissy93/awesome-privacy/pull/475",
         "author": "redpersongpt",
         "authorAvatar": "https://avatars.githubusercontent.com/u/195727128?v=4"
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "title": "Add amneziawg-installer to Self-Hosted Network Security",
+      "pr": {
+        "number": 474,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/474",
+        "author": "bivlked",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/50226185?v=4"
       }
     },
     {
