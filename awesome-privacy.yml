@@ -3783,6 +3783,7 @@ categories:
       - name : PII Blackout
         url : https://piiblackout.com
         icon: https://piiblackout.com/SCREENSHOT/icon48.png
+        github: shaoshuaithe/PII-Blackout
         followWith : Windows
         description : |
           100% offline, AI-powered desktop application to safely detect and permanently redact PII/PHI from PDF files and images with zero cloud uploads.
